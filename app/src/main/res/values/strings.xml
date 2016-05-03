@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FragmentDialog</string>
+    <string name="display_dialog">Display dialog</string>
+
+    <string name="hello">Olá</string>
+    <string name="do_you_wish_finish_app">Deseja fechar a aplicação?</string>
+    <string name="yes">Sim</string>
+    <string name="no">Não</string>
+</resources>
